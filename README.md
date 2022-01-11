@@ -1,2 +1,2 @@
 # likelion-TIL
-Today I Learn of likelion front-end school
+Today I Learned of likelion front-end school
